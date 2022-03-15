@@ -1,4 +1,4 @@
-# Karolyne-Nunes
+# Karolyne-Nunes-Fisioterapia
 Freelance website for physical therapist Karoline Nunes (using HTML, CSS and Java Script)
 
 Link: https://karolynenunesfisioterapia.netlify.app/
